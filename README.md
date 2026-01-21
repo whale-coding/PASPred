@@ -1,0 +1,2 @@
+# PASPred
+基于TabPFN和SHAP的人类多聚腺苷酸化信号致病突变预测工具
