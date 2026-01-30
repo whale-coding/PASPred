@@ -1,7 +1,7 @@
 # PASPred
 Prediction tool for human polyadenylation signaling pathogenic mutations based on TabPFN and SHAP。
 
-1.Model architecture
+## 1.Model architecture
 
 ![框架图](https://blog-whalecoding.oss-cn-beijing.aliyuncs.com/picgo/20260130110842355.png)
 
