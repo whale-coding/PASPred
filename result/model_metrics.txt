@@ -1,0 +1,2 @@
+Recall	Specificity	Precision	F1	MCC	Accuracy	AUC	AUPR
+0.826	0.906	0.739	0.780	0.706	0.887	0.941	0.884
